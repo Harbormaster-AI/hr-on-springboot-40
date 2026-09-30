@@ -27,7 +27,7 @@
       "language": [
         {
           "name": "java",
-          "version": "17"
+          "version": "21"
         },
         {
           "name": "kotlin"
